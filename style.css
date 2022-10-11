@@ -9,7 +9,7 @@
 button{
     display: block;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: pink;
+    background-color: pink; 
     border-radius: 30px;
     color: red;
     text-align: center;
