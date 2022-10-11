@@ -1,4 +1,8 @@
 # codingQuiz
+
+Deploy app:
+https://har015.github.io/codingQuiz/
+
 -user is able to take quiz about coding with 3 questions
 
 -when user clicks start quiz questions pop up and timer starts
