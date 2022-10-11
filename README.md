@@ -18,3 +18,5 @@ https://har015.github.io/codingQuiz/
 -when window promt appears user is able to enter initials
 
 -when user enters initials an alert pops up with user initials and their final score
+
+![image](https://user-images.githubusercontent.com/111612523/195205613-45902f85-fed5-4d44-afc1-c4f2ca7c1ecc.png)
